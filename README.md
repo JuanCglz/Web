@@ -1,5 +1,3 @@
-# Web
-Laboratorio
-JCGA
-A00813022
-08.25.2019
+# Desarrollo de aplicaciones web
+Laboratorio 1 - Resume
+Juan Carlos González Álvarez
